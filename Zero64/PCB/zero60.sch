@@ -1,0 +1,2551 @@
+EESchema Schematic File Version 4
+LIBS:zero60-cache
+EELAYER 26 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:VCC #PWR05
+U 1 1 5C403EAF
+P 6600 2650
+F 0 "#PWR05" H 6600 2500 50  0001 C CNN
+F 1 "VCC" V 6617 2778 50  0000 L CNN
+F 2 "" H 6600 2650 50  0001 C CNN
+F 3 "" H 6600 2650 50  0001 C CNN
+	1    6600 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5C403EE8
+P 6600 2450
+F 0 "#PWR01" H 6600 2200 50  0001 C CNN
+F 1 "GND" V 6605 2322 50  0000 R CNN
+F 2 "" H 6600 2450 50  0001 C CNN
+F 3 "" H 6600 2450 50  0001 C CNN
+	1    6600 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5C405EBF
+P 7450 2600
+F 0 "#PWR03" H 7450 2350 50  0001 C CNN
+F 1 "GND" H 7455 2427 50  0000 C CNN
+F 2 "" H 7450 2600 50  0001 C CNN
+F 3 "" H 7450 2600 50  0001 C CNN
+	1    7450 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 5C405FAC
+P 5200 2550
+F 0 "#PWR02" H 5200 2300 50  0001 C CNN
+F 1 "GND" V 5205 2422 50  0000 R CNN
+F 2 "" H 5200 2550 50  0001 C CNN
+F 3 "" H 5200 2550 50  0001 C CNN
+	1    5200 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5C405FD6
+P 5200 2650
+F 0 "#PWR04" H 5200 2400 50  0001 C CNN
+F 1 "GND" V 5205 2522 50  0000 R CNN
+F 2 "" H 5200 2650 50  0001 C CNN
+F 3 "" H 5200 2650 50  0001 C CNN
+	1    5200 2650
+	0    1    1    0   
+$EndComp
+Text GLabel 2700 4750 1    50   Input ~ 0
+Col1
+Text GLabel 4050 4750 1    50   Input ~ 0
+Col2
+Text GLabel 5400 4750 1    50   Input ~ 0
+Col3
+Text GLabel 6750 4750 1    50   Input ~ 0
+Col4
+Text GLabel 8150 4750 1    50   Input ~ 0
+Col5
+Text GLabel 1350 4750 1    50   Input ~ 0
+Col0
+Text GLabel 11650 4750 1    50   Input ~ 0
+Col7
+Text GLabel 12950 4750 1    50   Input ~ 0
+Col8
+Text GLabel 14250 4750 1    50   Input ~ 0
+Col9
+Text GLabel 15550 4750 1    50   Input ~ 0
+Col10
+Text GLabel 16800 4750 1    50   Input ~ 0
+Col11
+Text GLabel 10300 4750 1    50   Input ~ 0
+Col6
+Text GLabel 18100 4750 1    50   Input ~ 0
+Col12
+Text GLabel 19750 5200 2    50   Input ~ 0
+Row0
+Text GLabel 19750 6000 2    50   Input ~ 0
+Row1
+Text GLabel 19750 6800 2    50   Input ~ 0
+Row2
+Text GLabel 19750 7600 2    50   Input ~ 0
+Row3
+Text GLabel 19750 8300 2    50   Input ~ 0
+Row4
+Text GLabel 6600 2750 2    50   Input ~ 0
+Col0
+Text GLabel 6600 2850 2    50   Input ~ 0
+Col1
+Text GLabel 6600 2950 2    50   Input ~ 0
+Col2
+Text GLabel 6600 3050 2    50   Input ~ 0
+Col3
+Text GLabel 6600 3150 2    50   Input ~ 0
+Col4
+Text GLabel 6600 3250 2    50   Input ~ 0
+Col5
+Text GLabel 6600 3350 2    50   Input ~ 0
+Col6
+Text GLabel 6600 3450 2    50   Input ~ 0
+Col7
+Text GLabel 5700 3850 3    50   Input ~ 0
+Col8
+Text GLabel 5800 3850 3    50   Input ~ 0
+Col9
+Text GLabel 5900 3850 3    50   Input ~ 0
+Col10
+Text GLabel 6000 3850 3    50   Input ~ 0
+Col11
+Text GLabel 6100 3850 3    50   Input ~ 0
+Col12
+Text GLabel 5200 3150 0    50   Input ~ 0
+Row2
+Text GLabel 5200 3350 0    50   Input ~ 0
+Row3
+Text GLabel 5200 3450 0    50   Input ~ 0
+Row4
+$Comp
+L power:VCC #PWR06
+U 1 1 5CEC0B91
+P 7950 2750
+F 0 "#PWR06" H 7950 2600 50  0001 C CNN
+F 1 "VCC" H 7968 2923 50  0000 C CNN
+F 2 "" H 7950 2750 50  0001 C CNN
+F 3 "" H 7950 2750 50  0001 C CNN
+	1    7950 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 5CEC2C42
+P 8450 2750
+F 0 "#PWR07" H 8450 2500 50  0001 C CNN
+F 1 "GND" H 8455 2577 50  0000 C CNN
+F 2 "" H 8450 2750 50  0001 C CNN
+F 3 "" H 8450 2750 50  0001 C CNN
+	1    8450 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP1
+U 1 1 5CEC2E47
+P 4900 2350
+F 0 "TP1" H 4850 2650 50  0000 L CNN
+F 1 "PD3" H 4750 2550 50  0000 L CNN
+F 2 "keebio:SinglePad" H 5100 2350 50  0001 C CNN
+F 3 "~" H 5100 2350 50  0001 C CNN
+	1    4900 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP3
+U 1 1 5CEC312B
+P 8450 2600
+F 0 "TP3" H 8508 2720 50  0000 L CNN
+F 1 "GND" H 8508 2629 50  0000 L CNN
+F 2 "keebio:SinglePad" H 8650 2600 50  0001 C CNN
+F 3 "~" H 8650 2600 50  0001 C CNN
+	1    8450 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:TestPoint TP2
+U 1 1 5CEC331A
+P 7950 2600
+F 0 "TP2" H 8008 2720 50  0000 L CNN
+F 1 "VCC" H 8008 2629 50  0000 L CNN
+F 2 "keebio:SinglePad" H 8150 2600 50  0001 C CNN
+F 3 "~" H 8150 2600 50  0001 C CNN
+	1    7950 2600
+	1    0    0    -1  
+$EndComp
+Text GLabel 5200 2950 0    50   Input ~ 0
+Row0
+Text GLabel 5200 3050 0    50   Input ~ 0
+Row1
+$Comp
+L keebio:Elite-C U1
+U 1 1 5C55CE5E
+P 5900 2900
+F 0 "U1" H 5900 3737 60  0000 C CNN
+F 1 "Elite-C" H 5900 3631 60  0000 C CNN
+F 2 "keebio:Elite-C" V 6950 400 60  0001 C CNN
+F 3 "" V 6950 400 60  0001 C CNN
+	1    5900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5C6FB1C3
+P 5050 2350
+F 0 "R1" V 4950 2350 50  0000 C CNN
+F 1 "470" V 5050 2350 50  0000 C CNN
+F 2 "keebio:Resistor" V 4980 2350 50  0001 C CNN
+F 3 "~" H 5050 2350 50  0001 C CNN
+	1    5050 2350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8450 2600 8450 2750
+Wire Wire Line
+	7950 2600 7950 2750
+Wire Wire Line
+	19250 5150 19250 5200
+Wire Wire Line
+	19250 5950 19250 6000
+Wire Wire Line
+	19250 6750 19250 6800
+Wire Wire Line
+	19250 7500 19250 7600
+Wire Wire Line
+	19250 8300 19750 8300
+Wire Wire Line
+	19250 8200 19250 8300
+Connection ~ 19250 8300
+Wire Wire Line
+	17900 8300 19250 8300
+Wire Wire Line
+	17900 8200 17900 8300
+Wire Wire Line
+	19250 7600 17900 7600
+Connection ~ 17900 7600
+Wire Wire Line
+	17900 7500 17900 7600
+Wire Wire Line
+	19250 6800 17900 6800
+Connection ~ 17900 6800
+Wire Wire Line
+	17900 6800 17900 6750
+Wire Wire Line
+	19250 6000 17900 6000
+Connection ~ 17900 6000
+Wire Wire Line
+	17900 5950 17900 6000
+Wire Wire Line
+	19250 5200 17900 5200
+Connection ~ 17900 5200
+Wire Wire Line
+	17900 5150 17900 5200
+Wire Wire Line
+	17900 5200 16600 5200
+Connection ~ 16600 5200
+Wire Wire Line
+	16600 5150 16600 5200
+Wire Wire Line
+	16600 5200 15350 5200
+Connection ~ 15350 5200
+Wire Wire Line
+	15350 5150 15350 5200
+Wire Wire Line
+	15350 5200 14050 5200
+Connection ~ 14050 5200
+Wire Wire Line
+	14050 5150 14050 5200
+Wire Wire Line
+	14050 5200 12750 5200
+Wire Wire Line
+	12750 5200 11450 5200
+Connection ~ 12750 5200
+Wire Wire Line
+	12750 5150 12750 5200
+Wire Wire Line
+	12750 6000 11450 6000
+Connection ~ 12750 6000
+Wire Wire Line
+	12750 5950 12750 6000
+Wire Wire Line
+	14050 6000 12750 6000
+Connection ~ 14050 6000
+Wire Wire Line
+	14050 5950 14050 6000
+Wire Wire Line
+	15350 6000 14050 6000
+Connection ~ 15350 6000
+Wire Wire Line
+	15350 5950 15350 6000
+Wire Wire Line
+	17900 6000 16600 6000
+Wire Wire Line
+	16600 6000 15350 6000
+Connection ~ 16600 6000
+Wire Wire Line
+	16600 5950 16600 6000
+Wire Wire Line
+	17900 6800 16600 6800
+Connection ~ 16600 6800
+Wire Wire Line
+	16600 6750 16600 6800
+Wire Wire Line
+	16600 6800 15350 6800
+Connection ~ 15350 6800
+Wire Wire Line
+	15350 6750 15350 6800
+Wire Wire Line
+	15350 6800 14050 6800
+Connection ~ 14050 6800
+Wire Wire Line
+	14050 6750 14050 6800
+Wire Wire Line
+	14050 6800 12750 6800
+Wire Wire Line
+	12750 6800 11450 6800
+Connection ~ 12750 6800
+Wire Wire Line
+	12750 6750 12750 6800
+Wire Wire Line
+	12750 7600 11450 7600
+Connection ~ 12750 7600
+Wire Wire Line
+	12750 7500 12750 7600
+Wire Wire Line
+	14050 7600 12750 7600
+Connection ~ 14050 7600
+Wire Wire Line
+	14050 7500 14050 7600
+Wire Wire Line
+	15350 7600 14050 7600
+Connection ~ 15350 7600
+Wire Wire Line
+	15350 7500 15350 7600
+Wire Wire Line
+	17900 7600 16600 7600
+Wire Wire Line
+	16600 7600 15350 7600
+Connection ~ 16600 7600
+Wire Wire Line
+	16600 7500 16600 7600
+Connection ~ 17900 8300
+Wire Wire Line
+	16600 8300 17900 8300
+Wire Wire Line
+	16600 8200 16600 8300
+Connection ~ 16600 8300
+Wire Wire Line
+	15350 8300 16600 8300
+Wire Wire Line
+	15350 8200 15350 8300
+Connection ~ 15350 8300
+Wire Wire Line
+	14050 8300 15350 8300
+Wire Wire Line
+	14050 8200 14050 8300
+Connection ~ 14050 8300
+Wire Wire Line
+	12750 8300 14050 8300
+Wire Wire Line
+	12750 8200 12750 8300
+Connection ~ 12750 8300
+Wire Wire Line
+	11450 8300 12750 8300
+Wire Wire Line
+	11450 8200 11450 8300
+Wire Wire Line
+	11450 7500 11450 7600
+Wire Wire Line
+	11450 6750 11450 6800
+Wire Wire Line
+	11450 5950 11450 6000
+Wire Wire Line
+	11450 5150 11450 5200
+Connection ~ 19250 7600
+Wire Wire Line
+	19750 7600 19250 7600
+Connection ~ 19250 6800
+Wire Wire Line
+	19750 6800 19250 6800
+Connection ~ 19250 6000
+Wire Wire Line
+	19750 6000 19250 6000
+Connection ~ 19250 5200
+Wire Wire Line
+	19000 7900 19250 7900
+Wire Wire Line
+	17700 7900 17900 7900
+Wire Wire Line
+	16450 7900 16600 7900
+Wire Wire Line
+	16450 7200 16600 7200
+Wire Wire Line
+	17700 7200 17900 7200
+Wire Wire Line
+	19000 7200 19250 7200
+Wire Wire Line
+	19000 6450 19250 6450
+Wire Wire Line
+	17700 6450 17900 6450
+Wire Wire Line
+	16450 6450 16600 6450
+Wire Wire Line
+	16450 5650 16600 5650
+Wire Wire Line
+	17700 5650 17900 5650
+Wire Wire Line
+	19250 5650 19000 5650
+Wire Wire Line
+	19000 4850 19250 4850
+Wire Wire Line
+	17700 4850 17900 4850
+Wire Wire Line
+	16450 4850 16600 4850
+Wire Wire Line
+	15150 7900 15350 7900
+Wire Wire Line
+	13850 7900 14050 7900
+Wire Wire Line
+	12550 7900 12750 7900
+Wire Wire Line
+	11250 7900 11450 7900
+Wire Wire Line
+	11250 8200 11250 7900
+Wire Wire Line
+	11200 8200 11250 8200
+Connection ~ 11250 7900
+Wire Wire Line
+	11200 7900 11250 7900
+Wire Wire Line
+	11450 7200 11200 7200
+Wire Wire Line
+	12750 7200 12550 7200
+Wire Wire Line
+	14050 7200 13850 7200
+Wire Wire Line
+	15350 7200 15150 7200
+Wire Wire Line
+	15150 6450 15350 6450
+Wire Wire Line
+	13850 6450 14050 6450
+Wire Wire Line
+	12550 6450 12750 6450
+Wire Wire Line
+	11200 6450 11450 6450
+Wire Wire Line
+	11450 5650 11200 5650
+Wire Wire Line
+	12750 5650 12550 5650
+Wire Wire Line
+	14050 5650 13850 5650
+Wire Wire Line
+	15350 5650 15150 5650
+Wire Wire Line
+	15150 4850 15350 4850
+Wire Wire Line
+	13850 4850 14050 4850
+Wire Wire Line
+	12550 4850 12750 4850
+Wire Wire Line
+	11200 4850 11450 4850
+Wire Wire Line
+	18100 7200 18100 7900
+Wire Wire Line
+	18400 7200 18100 7200
+Connection ~ 18100 7200
+Wire Wire Line
+	18100 6450 18100 7200
+Wire Wire Line
+	18100 6450 18400 6450
+Connection ~ 18100 6450
+Wire Wire Line
+	18100 5650 18100 6450
+Wire Wire Line
+	18400 5650 18100 5650
+Connection ~ 18100 5650
+Wire Wire Line
+	18100 4850 18100 5650
+Wire Wire Line
+	18400 4850 18100 4850
+Wire Wire Line
+	16800 7200 16800 7900
+Wire Wire Line
+	17100 7200 16800 7200
+Connection ~ 16800 7200
+Wire Wire Line
+	16800 6450 16800 7200
+Wire Wire Line
+	17100 6450 16800 6450
+Connection ~ 16800 6450
+Wire Wire Line
+	16800 5650 16800 6450
+Wire Wire Line
+	17100 5650 16800 5650
+Connection ~ 16800 5650
+Wire Wire Line
+	16800 4850 16800 5650
+Wire Wire Line
+	17100 4850 16800 4850
+Wire Wire Line
+	15550 7200 15550 7900
+Wire Wire Line
+	15850 7200 15550 7200
+Connection ~ 15550 7200
+Wire Wire Line
+	15550 6450 15550 7200
+Wire Wire Line
+	15850 6450 15550 6450
+Connection ~ 15550 6450
+Wire Wire Line
+	15550 5650 15550 6450
+Wire Wire Line
+	15850 5650 15550 5650
+Connection ~ 15550 5650
+Wire Wire Line
+	15550 4850 15550 5650
+Wire Wire Line
+	15850 4850 15550 4850
+Wire Wire Line
+	14250 7200 14250 7900
+Wire Wire Line
+	14550 7200 14250 7200
+Connection ~ 14250 7200
+Wire Wire Line
+	14250 6450 14250 7200
+Wire Wire Line
+	14550 6450 14250 6450
+Connection ~ 14250 6450
+Wire Wire Line
+	14250 5650 14250 6450
+Wire Wire Line
+	14550 5650 14250 5650
+Connection ~ 14250 5650
+Wire Wire Line
+	14250 4850 14250 5650
+Wire Wire Line
+	14550 4850 14250 4850
+Wire Wire Line
+	12950 7200 12950 7900
+Wire Wire Line
+	13250 7200 12950 7200
+Connection ~ 12950 7200
+Wire Wire Line
+	12950 6450 12950 7200
+Wire Wire Line
+	13250 6450 12950 6450
+Connection ~ 12950 6450
+Wire Wire Line
+	12950 5650 12950 6450
+Wire Wire Line
+	13250 5650 12950 5650
+Connection ~ 12950 5650
+Wire Wire Line
+	12950 4850 12950 5650
+Wire Wire Line
+	13250 4850 12950 4850
+Wire Wire Line
+	11650 7200 11650 7900
+Wire Wire Line
+	11950 7200 11650 7200
+Connection ~ 11650 7200
+Wire Wire Line
+	11650 6450 11650 7200
+Wire Wire Line
+	11950 6450 11650 6450
+Connection ~ 11650 6450
+Wire Wire Line
+	11650 5650 11650 6450
+Wire Wire Line
+	11950 5650 11650 5650
+Connection ~ 11650 5650
+Wire Wire Line
+	11650 4850 11650 5650
+Wire Wire Line
+	11950 4850 11650 4850
+Wire Wire Line
+	10300 7900 10300 8200
+Wire Wire Line
+	10600 7900 10300 7900
+Connection ~ 10300 7900
+Wire Wire Line
+	10300 7200 10300 7900
+Wire Wire Line
+	10600 7200 10300 7200
+Connection ~ 10300 7200
+Wire Wire Line
+	10300 6450 10300 7200
+Wire Wire Line
+	10600 6450 10300 6450
+Connection ~ 10300 6450
+Wire Wire Line
+	10300 5650 10300 6450
+Wire Wire Line
+	10600 5650 10300 5650
+Connection ~ 10300 5650
+Wire Wire Line
+	10300 4850 10300 5650
+Wire Wire Line
+	10600 4850 10300 4850
+Wire Wire Line
+	18100 7900 18400 7900
+Connection ~ 18100 4850
+Wire Wire Line
+	18100 4750 18100 4850
+Wire Wire Line
+	16800 7900 17100 7900
+Connection ~ 16800 4850
+Wire Wire Line
+	16800 4750 16800 4850
+Wire Wire Line
+	15550 7900 15850 7900
+Connection ~ 15550 4850
+Wire Wire Line
+	15550 4750 15550 4850
+Wire Wire Line
+	14250 7900 14550 7900
+Connection ~ 14250 4850
+Wire Wire Line
+	14250 4750 14250 4850
+Wire Wire Line
+	12950 7900 13250 7900
+Connection ~ 12950 4850
+Wire Wire Line
+	12950 4750 12950 4850
+Wire Wire Line
+	11650 7900 11950 7900
+Connection ~ 11650 4850
+Wire Wire Line
+	11650 4750 11650 4850
+Wire Wire Line
+	10300 8200 10600 8200
+Connection ~ 10300 4850
+Wire Wire Line
+	10300 4750 10300 4850
+$Comp
+L Device:D D65
+U 1 1 5C4215D1
+P 19250 8050
+F 0 "D65" V 19296 7971 50  0000 R CNN
+F 1 "D" V 19205 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 19250 8050 50  0001 C CNN
+F 3 "~" H 19250 8050 50  0001 C CNN
+	1    19250 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D52
+U 1 1 5C4215CA
+P 19250 7350
+F 0 "D52" V 19296 7271 50  0000 R CNN
+F 1 "D" V 19205 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 19250 7350 50  0001 C CNN
+F 3 "~" H 19250 7350 50  0001 C CNN
+	1    19250 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D39
+U 1 1 5C4215C3
+P 19250 6600
+F 0 "D39" V 19296 6521 50  0000 R CNN
+F 1 "D" V 19205 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 19250 6600 50  0001 C CNN
+F 3 "~" H 19250 6600 50  0001 C CNN
+	1    19250 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 5C4215BC
+P 19250 5800
+F 0 "D26" V 19296 5721 50  0000 R CNN
+F 1 "D" V 19205 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 19250 5800 50  0001 C CNN
+F 3 "~" H 19250 5800 50  0001 C CNN
+	1    19250 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5C4215B5
+P 19250 5000
+F 0 "D13" V 19296 4921 50  0000 R CNN
+F 1 "D" V 19205 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 19250 5000 50  0001 C CNN
+F 3 "~" H 19250 5000 50  0001 C CNN
+	1    19250 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D64
+U 1 1 5C421216
+P 17900 8050
+F 0 "D64" V 17946 7971 50  0000 R CNN
+F 1 "D" V 17855 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 17900 8050 50  0001 C CNN
+F 3 "~" H 17900 8050 50  0001 C CNN
+	1    17900 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D51
+U 1 1 5C42120F
+P 17900 7350
+F 0 "D51" V 17946 7271 50  0000 R CNN
+F 1 "D" V 17855 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 17900 7350 50  0001 C CNN
+F 3 "~" H 17900 7350 50  0001 C CNN
+	1    17900 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 5C421208
+P 17900 6600
+F 0 "D38" V 17946 6521 50  0000 R CNN
+F 1 "D" V 17855 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 17900 6600 50  0001 C CNN
+F 3 "~" H 17900 6600 50  0001 C CNN
+	1    17900 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 5C421201
+P 17900 5800
+F 0 "D25" V 17946 5721 50  0000 R CNN
+F 1 "D" V 17855 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 17900 5800 50  0001 C CNN
+F 3 "~" H 17900 5800 50  0001 C CNN
+	1    17900 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5C4211FA
+P 17900 5000
+F 0 "D12" V 17946 4921 50  0000 R CNN
+F 1 "D" V 17855 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 17900 5000 50  0001 C CNN
+F 3 "~" H 17900 5000 50  0001 C CNN
+	1    17900 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D63
+U 1 1 5C42103C
+P 16600 8050
+F 0 "D63" V 16646 7971 50  0000 R CNN
+F 1 "D" V 16555 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 16600 8050 50  0001 C CNN
+F 3 "~" H 16600 8050 50  0001 C CNN
+	1    16600 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D50
+U 1 1 5C421035
+P 16600 7350
+F 0 "D50" V 16646 7271 50  0000 R CNN
+F 1 "D" V 16555 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 16600 7350 50  0001 C CNN
+F 3 "~" H 16600 7350 50  0001 C CNN
+	1    16600 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D37
+U 1 1 5C42102E
+P 16600 6600
+F 0 "D37" V 16646 6521 50  0000 R CNN
+F 1 "D" V 16555 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 16600 6600 50  0001 C CNN
+F 3 "~" H 16600 6600 50  0001 C CNN
+	1    16600 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 5C421027
+P 16600 5800
+F 0 "D24" V 16646 5721 50  0000 R CNN
+F 1 "D" V 16555 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 16600 5800 50  0001 C CNN
+F 3 "~" H 16600 5800 50  0001 C CNN
+	1    16600 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5C421020
+P 16600 5000
+F 0 "D11" V 16646 4921 50  0000 R CNN
+F 1 "D" V 16555 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 16600 5000 50  0001 C CNN
+F 3 "~" H 16600 5000 50  0001 C CNN
+	1    16600 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D62
+U 1 1 5C420DFE
+P 15350 8050
+F 0 "D62" V 15396 7971 50  0000 R CNN
+F 1 "D" V 15305 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 15350 8050 50  0001 C CNN
+F 3 "~" H 15350 8050 50  0001 C CNN
+	1    15350 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D49
+U 1 1 5C420DF7
+P 15350 7350
+F 0 "D49" V 15396 7271 50  0000 R CNN
+F 1 "D" V 15305 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 15350 7350 50  0001 C CNN
+F 3 "~" H 15350 7350 50  0001 C CNN
+	1    15350 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 5C420DF0
+P 15350 6600
+F 0 "D36" V 15396 6521 50  0000 R CNN
+F 1 "D" V 15305 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 15350 6600 50  0001 C CNN
+F 3 "~" H 15350 6600 50  0001 C CNN
+	1    15350 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 5C420DE9
+P 15350 5800
+F 0 "D23" V 15396 5721 50  0000 R CNN
+F 1 "D" V 15305 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 15350 5800 50  0001 C CNN
+F 3 "~" H 15350 5800 50  0001 C CNN
+	1    15350 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5C420DE2
+P 15350 5000
+F 0 "D10" V 15396 4921 50  0000 R CNN
+F 1 "D" V 15305 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 15350 5000 50  0001 C CNN
+F 3 "~" H 15350 5000 50  0001 C CNN
+	1    15350 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D61
+U 1 1 5C420C2E
+P 14050 8050
+F 0 "D61" V 14096 7971 50  0000 R CNN
+F 1 "D" V 14005 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 14050 8050 50  0001 C CNN
+F 3 "~" H 14050 8050 50  0001 C CNN
+	1    14050 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D48
+U 1 1 5C420C27
+P 14050 7350
+F 0 "D48" V 14096 7271 50  0000 R CNN
+F 1 "D" V 14005 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 14050 7350 50  0001 C CNN
+F 3 "~" H 14050 7350 50  0001 C CNN
+	1    14050 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 5C420C20
+P 14050 6600
+F 0 "D35" V 14096 6521 50  0000 R CNN
+F 1 "D" V 14005 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 14050 6600 50  0001 C CNN
+F 3 "~" H 14050 6600 50  0001 C CNN
+	1    14050 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D22
+U 1 1 5C420C19
+P 14050 5800
+F 0 "D22" V 14096 5721 50  0000 R CNN
+F 1 "D" V 14005 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 14050 5800 50  0001 C CNN
+F 3 "~" H 14050 5800 50  0001 C CNN
+	1    14050 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5C420C12
+P 14050 5000
+F 0 "D9" V 14096 4921 50  0000 R CNN
+F 1 "D" V 14005 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 14050 5000 50  0001 C CNN
+F 3 "~" H 14050 5000 50  0001 C CNN
+	1    14050 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D60
+U 1 1 5C420A22
+P 12750 8050
+F 0 "D60" V 12796 7971 50  0000 R CNN
+F 1 "D" V 12705 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 12750 8050 50  0001 C CNN
+F 3 "~" H 12750 8050 50  0001 C CNN
+	1    12750 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D47
+U 1 1 5C420A1B
+P 12750 7350
+F 0 "D47" V 12796 7271 50  0000 R CNN
+F 1 "D" V 12705 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 12750 7350 50  0001 C CNN
+F 3 "~" H 12750 7350 50  0001 C CNN
+	1    12750 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 5C420A14
+P 12750 6600
+F 0 "D34" V 12796 6521 50  0000 R CNN
+F 1 "D" V 12705 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 12750 6600 50  0001 C CNN
+F 3 "~" H 12750 6600 50  0001 C CNN
+	1    12750 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 5C420A0D
+P 12750 5800
+F 0 "D21" V 12796 5721 50  0000 R CNN
+F 1 "D" V 12705 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 12750 5800 50  0001 C CNN
+F 3 "~" H 12750 5800 50  0001 C CNN
+	1    12750 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5C420A06
+P 12750 5000
+F 0 "D8" V 12796 4921 50  0000 R CNN
+F 1 "D" V 12705 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 12750 5000 50  0001 C CNN
+F 3 "~" H 12750 5000 50  0001 C CNN
+	1    12750 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D59
+U 1 1 5C42083E
+P 11450 8050
+F 0 "D59" V 11496 7971 50  0000 R CNN
+F 1 "D" V 11405 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 11450 8050 50  0001 C CNN
+F 3 "~" H 11450 8050 50  0001 C CNN
+	1    11450 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D46
+U 1 1 5C420837
+P 11450 7350
+F 0 "D46" V 11496 7271 50  0000 R CNN
+F 1 "D" V 11405 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 11450 7350 50  0001 C CNN
+F 3 "~" H 11450 7350 50  0001 C CNN
+	1    11450 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 5C420830
+P 11450 6600
+F 0 "D33" V 11496 6521 50  0000 R CNN
+F 1 "D" V 11405 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 11450 6600 50  0001 C CNN
+F 3 "~" H 11450 6600 50  0001 C CNN
+	1    11450 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5C420829
+P 11450 5800
+F 0 "D20" V 11496 5721 50  0000 R CNN
+F 1 "D" V 11405 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 11450 5800 50  0001 C CNN
+F 3 "~" H 11450 5800 50  0001 C CNN
+	1    11450 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5C420822
+P 11450 5000
+F 0 "D7" V 11496 4921 50  0000 R CNN
+F 1 "D" V 11405 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 11450 5000 50  0001 C CNN
+F 3 "~" H 11450 5000 50  0001 C CNN
+	1    11450 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA66
+U 1 1 5C412716
+P 10900 8200
+F 0 "SWA66" H 10900 8455 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 8364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_200H-dual-nosilk" H 10900 8200 60  0001 C CNN
+F 3 "" H 10900 8200 60  0000 C CNN
+	1    10900 8200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA60
+U 1 1 5C40E683
+P 12250 7900
+F 0 "SWA60" H 12250 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 12250 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 12250 7900 60  0001 C CNN
+F 3 "" H 12250 7900 60  0000 C CNN
+	1    12250 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA65
+U 1 1 5C411E32
+P 18700 7900
+F 0 "SWA65" H 18700 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 18700 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 18700 7900 60  0001 C CNN
+F 3 "" H 18700 7900 60  0000 C CNN
+	1    18700 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA52
+U 1 1 5C411E2B
+P 18700 7200
+F 0 "SWA52" H 18700 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 18700 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 18700 7200 60  0001 C CNN
+F 3 "" H 18700 7200 60  0000 C CNN
+	1    18700 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA39
+U 1 1 5C411E24
+P 18700 6450
+F 0 "SWA39" H 18700 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 18700 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 18700 6450 60  0001 C CNN
+F 3 "" H 18700 6450 60  0000 C CNN
+	1    18700 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA26
+U 1 1 5C411E1D
+P 18700 5650
+F 0 "SWA26" H 18700 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 18700 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 18700 5650 60  0001 C CNN
+F 3 "" H 18700 5650 60  0000 C CNN
+	1    18700 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA13
+U 1 1 5C411E15
+P 18700 4850
+F 0 "SWA13" H 18700 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 18700 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 18700 4850 60  0001 C CNN
+F 3 "" H 18700 4850 60  0000 C CNN
+	1    18700 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA59
+U 1 1 5C40E737
+P 10900 7900
+F 0 "SWA59" H 10900 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 10900 7900 60  0001 C CNN
+F 3 "" H 10900 7900 60  0000 C CNN
+	1    10900 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA46
+U 1 1 5C40E730
+P 10900 7200
+F 0 "SWA46" H 10900 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 10900 7200 60  0001 C CNN
+F 3 "" H 10900 7200 60  0000 C CNN
+	1    10900 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA33
+U 1 1 5C40E729
+P 10900 6450
+F 0 "SWA33" H 10900 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 10900 6450 60  0001 C CNN
+F 3 "" H 10900 6450 60  0000 C CNN
+	1    10900 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA20
+U 1 1 5C40E722
+P 10900 5650
+F 0 "SWA20" H 10900 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 10900 5650 60  0001 C CNN
+F 3 "" H 10900 5650 60  0000 C CNN
+	1    10900 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA7
+U 1 1 5C40E71A
+P 10900 4850
+F 0 "SWA7" H 10900 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 10900 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 10900 4850 60  0001 C CNN
+F 3 "" H 10900 4850 60  0000 C CNN
+	1    10900 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA64
+U 1 1 5C40E713
+P 17400 7900
+F 0 "SWA64" H 17400 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 17400 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 17400 7900 60  0001 C CNN
+F 3 "" H 17400 7900 60  0000 C CNN
+	1    17400 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA51
+U 1 1 5C40E70C
+P 17400 7200
+F 0 "SWA51" H 17400 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 17400 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 17400 7200 60  0001 C CNN
+F 3 "" H 17400 7200 60  0000 C CNN
+	1    17400 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA38
+U 1 1 5C40E705
+P 17400 6450
+F 0 "SWA38" H 17400 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 17400 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 17400 6450 60  0001 C CNN
+F 3 "" H 17400 6450 60  0000 C CNN
+	1    17400 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA25
+U 1 1 5C40E6FE
+P 17400 5650
+F 0 "SWA25" H 17400 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 17400 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 17400 5650 60  0001 C CNN
+F 3 "" H 17400 5650 60  0000 C CNN
+	1    17400 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA12
+U 1 1 5C40E6F6
+P 17400 4850
+F 0 "SWA12" H 17400 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 17400 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 17400 4850 60  0001 C CNN
+F 3 "" H 17400 4850 60  0000 C CNN
+	1    17400 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA63
+U 1 1 5C40E6EF
+P 16150 7900
+F 0 "SWA63" H 16150 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 16150 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 16150 7900 60  0001 C CNN
+F 3 "" H 16150 7900 60  0000 C CNN
+	1    16150 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA50
+U 1 1 5C40E6E8
+P 16150 7200
+F 0 "SWA50" H 16150 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 16150 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 16150 7200 60  0001 C CNN
+F 3 "" H 16150 7200 60  0000 C CNN
+	1    16150 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA37
+U 1 1 5C40E6E1
+P 16150 6450
+F 0 "SWA37" H 16150 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 16150 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 16150 6450 60  0001 C CNN
+F 3 "" H 16150 6450 60  0000 C CNN
+	1    16150 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA24
+U 1 1 5C40E6DA
+P 16150 5650
+F 0 "SWA24" H 16150 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 16150 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 16150 5650 60  0001 C CNN
+F 3 "" H 16150 5650 60  0000 C CNN
+	1    16150 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA11
+U 1 1 5C40E6D2
+P 16150 4850
+F 0 "SWA11" H 16150 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 16150 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 16150 4850 60  0001 C CNN
+F 3 "" H 16150 4850 60  0000 C CNN
+	1    16150 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA62
+U 1 1 5C40E6CB
+P 14850 7900
+F 0 "SWA62" H 14850 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 14850 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 14850 7900 60  0001 C CNN
+F 3 "" H 14850 7900 60  0000 C CNN
+	1    14850 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA49
+U 1 1 5C40E6C4
+P 14850 7200
+F 0 "SWA49" H 14850 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 14850 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 14850 7200 60  0001 C CNN
+F 3 "" H 14850 7200 60  0000 C CNN
+	1    14850 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA36
+U 1 1 5C40E6BD
+P 14850 6450
+F 0 "SWA36" H 14850 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 14850 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 14850 6450 60  0001 C CNN
+F 3 "" H 14850 6450 60  0000 C CNN
+	1    14850 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA23
+U 1 1 5C40E6B6
+P 14850 5650
+F 0 "SWA23" H 14850 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 14850 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 14850 5650 60  0001 C CNN
+F 3 "" H 14850 5650 60  0000 C CNN
+	1    14850 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA10
+U 1 1 5C40E6AE
+P 14850 4850
+F 0 "SWA10" H 14850 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 14850 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 14850 4850 60  0001 C CNN
+F 3 "" H 14850 4850 60  0000 C CNN
+	1    14850 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA61
+U 1 1 5C40E6A7
+P 13550 7900
+F 0 "SWA61" H 13550 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 13550 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 13550 7900 60  0001 C CNN
+F 3 "" H 13550 7900 60  0000 C CNN
+	1    13550 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA48
+U 1 1 5C40E6A0
+P 13550 7200
+F 0 "SWA48" H 13550 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 13550 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 13550 7200 60  0001 C CNN
+F 3 "" H 13550 7200 60  0000 C CNN
+	1    13550 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA35
+U 1 1 5C40E699
+P 13550 6450
+F 0 "SWA35" H 13550 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 13550 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 13550 6450 60  0001 C CNN
+F 3 "" H 13550 6450 60  0000 C CNN
+	1    13550 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA22
+U 1 1 5C40E692
+P 13550 5650
+F 0 "SWA22" H 13550 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 13550 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 13550 5650 60  0001 C CNN
+F 3 "" H 13550 5650 60  0000 C CNN
+	1    13550 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA9
+U 1 1 5C40E68A
+P 13550 4850
+F 0 "SWA9" H 13550 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 13550 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 13550 4850 60  0001 C CNN
+F 3 "" H 13550 4850 60  0000 C CNN
+	1    13550 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA47
+U 1 1 5C40E67C
+P 12250 7200
+F 0 "SWA47" H 12250 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 12250 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 12250 7200 60  0001 C CNN
+F 3 "" H 12250 7200 60  0000 C CNN
+	1    12250 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA34
+U 1 1 5C40E675
+P 12250 6450
+F 0 "SWA34" H 12250 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 12250 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 12250 6450 60  0001 C CNN
+F 3 "" H 12250 6450 60  0000 C CNN
+	1    12250 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA21
+U 1 1 5C40E66E
+P 12250 5650
+F 0 "SWA21" H 12250 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 12250 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 12250 5650 60  0001 C CNN
+F 3 "" H 12250 5650 60  0000 C CNN
+	1    12250 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA8
+U 1 1 5C40E666
+P 12250 4850
+F 0 "SWA8" H 12250 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 12250 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 12250 4850 60  0001 C CNN
+F 3 "" H 12250 4850 60  0000 C CNN
+	1    12250 4850
+	1    0    0    -1  
+$EndComp
+Connection ~ 11450 7600
+Connection ~ 11450 6800
+Connection ~ 11450 6000
+Connection ~ 11450 5200
+Connection ~ 11450 8300
+Connection ~ 5200 7600
+Wire Wire Line
+	5200 7500 5200 7600
+Wire Wire Line
+	6500 7600 5200 7600
+Connection ~ 6500 7600
+Wire Wire Line
+	6500 7500 6500 7600
+Wire Wire Line
+	7950 7600 6500 7600
+Connection ~ 7950 7600
+Wire Wire Line
+	7950 7500 7950 7600
+Wire Wire Line
+	11450 7600 9350 7600
+Wire Wire Line
+	9350 7600 7950 7600
+Connection ~ 9350 7600
+Wire Wire Line
+	9350 7500 9350 7600
+Wire Wire Line
+	11450 6800 9350 6800
+Connection ~ 9350 6800
+Wire Wire Line
+	9350 6750 9350 6800
+Wire Wire Line
+	9350 6800 7950 6800
+Connection ~ 7950 6800
+Wire Wire Line
+	7950 6750 7950 6800
+Wire Wire Line
+	7950 6800 6500 6800
+Connection ~ 6500 6800
+Wire Wire Line
+	6500 6750 6500 6800
+Wire Wire Line
+	6500 6800 5200 6800
+Connection ~ 5200 6800
+Wire Wire Line
+	5200 6750 5200 6800
+Connection ~ 5200 6000
+Wire Wire Line
+	5200 5950 5200 6000
+Wire Wire Line
+	6500 6000 5200 6000
+Connection ~ 6500 6000
+Wire Wire Line
+	6500 5950 6500 6000
+Wire Wire Line
+	7950 6000 6500 6000
+Connection ~ 7950 6000
+Wire Wire Line
+	7950 5950 7950 6000
+Wire Wire Line
+	11450 6000 9350 6000
+Wire Wire Line
+	9350 6000 7950 6000
+Connection ~ 9350 6000
+Wire Wire Line
+	9350 5950 9350 6000
+Wire Wire Line
+	11450 5200 9350 5200
+Connection ~ 9350 5200
+Wire Wire Line
+	9350 5150 9350 5200
+Wire Wire Line
+	9350 5200 7950 5200
+Connection ~ 7950 5200
+Wire Wire Line
+	7950 5150 7950 5200
+Wire Wire Line
+	7950 5200 6500 5200
+Connection ~ 6500 5200
+Wire Wire Line
+	6500 5150 6500 5200
+Wire Wire Line
+	9350 8300 11450 8300
+Connection ~ 9350 8300
+Wire Wire Line
+	9350 8200 9350 8300
+Wire Wire Line
+	7950 8300 9350 8300
+Connection ~ 7950 8300
+Wire Wire Line
+	7950 8200 7950 8300
+Wire Wire Line
+	6500 8300 7950 8300
+Connection ~ 6500 8300
+Wire Wire Line
+	6500 8200 6500 8300
+Wire Wire Line
+	6500 8300 5200 8300
+Connection ~ 5200 8300
+Wire Wire Line
+	5200 8200 5200 8300
+Wire Wire Line
+	5200 8300 3850 8300
+Wire Wire Line
+	3850 8300 2450 8300
+Connection ~ 3850 8300
+Wire Wire Line
+	3850 8200 3850 8300
+Wire Wire Line
+	5200 7600 3850 7600
+Wire Wire Line
+	3850 7600 2450 7600
+Connection ~ 3850 7600
+Wire Wire Line
+	3850 7500 3850 7600
+Wire Wire Line
+	5200 6800 3850 6800
+Wire Wire Line
+	3850 6800 2450 6800
+Connection ~ 3850 6800
+Wire Wire Line
+	3850 6750 3850 6800
+Wire Wire Line
+	5200 6000 3850 6000
+Wire Wire Line
+	3850 6000 2450 6000
+Connection ~ 3850 6000
+Wire Wire Line
+	3850 5950 3850 6000
+Wire Wire Line
+	2450 8300 2450 8200
+Wire Wire Line
+	2450 7600 2450 7500
+Wire Wire Line
+	2450 6800 2450 6750
+Wire Wire Line
+	2450 6000 2450 5950
+Wire Wire Line
+	6500 5200 5200 5200
+Connection ~ 5200 5200
+Wire Wire Line
+	5200 5150 5200 5200
+Wire Wire Line
+	5200 5200 3850 5200
+Wire Wire Line
+	3850 5200 2450 5200
+Connection ~ 3850 5200
+Wire Wire Line
+	3850 5150 3850 5200
+Wire Wire Line
+	2450 5200 2450 5150
+Wire Wire Line
+	9100 7900 9200 7900
+Wire Wire Line
+	9100 7200 9350 7200
+Wire Wire Line
+	9100 6450 9350 6450
+Wire Wire Line
+	9100 5650 9350 5650
+Wire Wire Line
+	9100 4850 9350 4850
+Wire Wire Line
+	7650 5650 7950 5650
+Wire Wire Line
+	7650 4850 7950 4850
+Wire Wire Line
+	6250 5650 6500 5650
+Wire Wire Line
+	6250 4850 6500 4850
+Wire Wire Line
+	4950 5650 5200 5650
+Wire Wire Line
+	4950 4850 5200 4850
+Wire Wire Line
+	4950 6450 5200 6450
+Wire Wire Line
+	7650 6450 7950 6450
+Wire Wire Line
+	6250 6450 6500 6450
+Wire Wire Line
+	7650 7900 7950 7900
+Wire Wire Line
+	7650 7200 7950 7200
+Wire Wire Line
+	6250 7900 6500 7900
+Wire Wire Line
+	6250 7200 6500 7200
+Wire Wire Line
+	4950 7900 5200 7900
+Wire Wire Line
+	4950 7200 5200 7200
+Wire Wire Line
+	3600 7900 3850 7900
+Wire Wire Line
+	3600 7200 3850 7200
+Wire Wire Line
+	2250 7900 2450 7900
+Wire Wire Line
+	2250 7200 2450 7200
+Wire Wire Line
+	2450 6450 2250 6450
+Wire Wire Line
+	3600 6450 3850 6450
+Wire Wire Line
+	3850 5650 3600 5650
+Wire Wire Line
+	3600 4850 3850 4850
+Wire Wire Line
+	2250 5650 2450 5650
+Wire Wire Line
+	2250 4850 2450 4850
+Wire Wire Line
+	8500 4850 8150 4850
+Wire Wire Line
+	8150 4850 8150 5650
+Connection ~ 8150 5650
+Wire Wire Line
+	8500 5650 8150 5650
+Connection ~ 8150 4850
+Wire Wire Line
+	8150 4750 8150 4850
+Wire Wire Line
+	8150 5650 8150 6450
+Connection ~ 8150 6450
+Wire Wire Line
+	8500 6450 8150 6450
+Wire Wire Line
+	8150 6450 8150 7200
+Wire Wire Line
+	8150 7200 8150 7900
+Connection ~ 8150 7200
+Wire Wire Line
+	8500 7200 8150 7200
+Wire Wire Line
+	8150 7900 8500 7900
+Wire Wire Line
+	6750 7200 6750 7900
+Wire Wire Line
+	7050 7200 6750 7200
+Connection ~ 6750 7200
+Wire Wire Line
+	6750 6450 6750 7200
+Wire Wire Line
+	7050 6450 6750 6450
+Connection ~ 6750 6450
+Wire Wire Line
+	6750 5650 6750 6450
+Wire Wire Line
+	7050 5650 6750 5650
+Connection ~ 6750 5650
+Wire Wire Line
+	6750 4850 6750 5650
+Wire Wire Line
+	7050 4850 6750 4850
+Wire Wire Line
+	5400 7200 5400 7900
+Wire Wire Line
+	5650 7200 5400 7200
+Connection ~ 5400 7200
+Wire Wire Line
+	5400 6450 5400 7200
+Wire Wire Line
+	5650 6450 5400 6450
+Connection ~ 5400 6450
+Wire Wire Line
+	5400 5650 5400 6450
+Wire Wire Line
+	5650 5650 5400 5650
+Connection ~ 5400 5650
+Wire Wire Line
+	5400 4850 5400 5650
+Wire Wire Line
+	5650 4850 5400 4850
+Wire Wire Line
+	4350 4850 4050 4850
+Wire Wire Line
+	4050 4850 4050 5650
+Connection ~ 4050 5650
+Wire Wire Line
+	4350 5650 4050 5650
+Wire Wire Line
+	4050 5650 4050 6450
+Connection ~ 4050 6450
+Wire Wire Line
+	4350 6450 4050 6450
+Wire Wire Line
+	4050 6450 4050 7200
+Wire Wire Line
+	4050 7200 4050 7900
+Connection ~ 4050 7200
+Wire Wire Line
+	4350 7200 4050 7200
+Wire Wire Line
+	2700 7200 2700 7900
+Wire Wire Line
+	3000 7200 2700 7200
+Connection ~ 2700 7200
+Wire Wire Line
+	2700 6450 2700 7200
+Wire Wire Line
+	3000 6450 2700 6450
+Connection ~ 2700 6450
+Wire Wire Line
+	2700 5650 2700 6450
+Wire Wire Line
+	3000 5650 2700 5650
+Connection ~ 2700 5650
+Wire Wire Line
+	2700 4850 2700 5650
+Wire Wire Line
+	3000 4850 2700 4850
+Wire Wire Line
+	5400 7900 5650 7900
+Connection ~ 5400 4850
+Wire Wire Line
+	5400 4750 5400 4850
+Wire Wire Line
+	6750 7900 7050 7900
+Connection ~ 6750 4850
+Wire Wire Line
+	6750 4750 6750 4850
+Wire Wire Line
+	4050 7900 4350 7900
+Connection ~ 4050 4850
+Wire Wire Line
+	4050 4750 4050 4850
+Wire Wire Line
+	2700 7900 3000 7900
+Connection ~ 2700 4850
+Wire Wire Line
+	2700 4750 2700 4850
+Wire Wire Line
+	1650 4850 1350 4850
+Wire Wire Line
+	1350 4850 1350 5650
+Connection ~ 1350 5650
+Wire Wire Line
+	1650 5650 1350 5650
+Wire Wire Line
+	1350 5650 1350 6450
+Connection ~ 1350 6450
+Wire Wire Line
+	1650 6450 1350 6450
+Wire Wire Line
+	1350 6450 1350 7200
+Wire Wire Line
+	1350 7200 1350 7900
+Connection ~ 1350 7200
+Wire Wire Line
+	1650 7200 1350 7200
+Wire Wire Line
+	1350 7900 1650 7900
+Connection ~ 1350 4850
+Wire Wire Line
+	1350 4750 1350 4850
+$Comp
+L Device:D D58
+U 1 1 5C4204AC
+P 9350 8050
+F 0 "D58" V 9396 7971 50  0000 R CNN
+F 1 "D" V 9305 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 9350 8050 50  0001 C CNN
+F 3 "~" H 9350 8050 50  0001 C CNN
+	1    9350 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D45
+U 1 1 5C4204A5
+P 9350 7350
+F 0 "D45" V 9396 7271 50  0000 R CNN
+F 1 "D" V 9305 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 9350 7350 50  0001 C CNN
+F 3 "~" H 9350 7350 50  0001 C CNN
+	1    9350 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 5C42049E
+P 9350 6600
+F 0 "D32" V 9396 6521 50  0000 R CNN
+F 1 "D" V 9305 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 9350 6600 50  0001 C CNN
+F 3 "~" H 9350 6600 50  0001 C CNN
+	1    9350 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 5C420497
+P 9350 5800
+F 0 "D19" V 9396 5721 50  0000 R CNN
+F 1 "D" V 9305 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 9350 5800 50  0001 C CNN
+F 3 "~" H 9350 5800 50  0001 C CNN
+	1    9350 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5C420490
+P 9350 5000
+F 0 "D6" V 9396 4921 50  0000 R CNN
+F 1 "D" V 9305 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 9350 5000 50  0001 C CNN
+F 3 "~" H 9350 5000 50  0001 C CNN
+	1    9350 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D57
+U 1 1 5C420250
+P 7950 8050
+F 0 "D57" V 7996 7971 50  0000 R CNN
+F 1 "D" V 7905 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 7950 8050 50  0001 C CNN
+F 3 "~" H 7950 8050 50  0001 C CNN
+	1    7950 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D44
+U 1 1 5C420249
+P 7950 7350
+F 0 "D44" V 7996 7271 50  0000 R CNN
+F 1 "D" V 7905 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 7950 7350 50  0001 C CNN
+F 3 "~" H 7950 7350 50  0001 C CNN
+	1    7950 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 5C420242
+P 7950 6600
+F 0 "D31" V 7996 6521 50  0000 R CNN
+F 1 "D" V 7905 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 7950 6600 50  0001 C CNN
+F 3 "~" H 7950 6600 50  0001 C CNN
+	1    7950 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 5C42023B
+P 7950 5800
+F 0 "D18" V 7996 5721 50  0000 R CNN
+F 1 "D" V 7905 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 7950 5800 50  0001 C CNN
+F 3 "~" H 7950 5800 50  0001 C CNN
+	1    7950 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5C420234
+P 7950 5000
+F 0 "D5" V 7996 4921 50  0000 R CNN
+F 1 "D" V 7905 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 7950 5000 50  0001 C CNN
+F 3 "~" H 7950 5000 50  0001 C CNN
+	1    7950 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D56
+U 1 1 5C42001C
+P 6500 8050
+F 0 "D56" V 6546 7971 50  0000 R CNN
+F 1 "D" V 6455 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 6500 8050 50  0001 C CNN
+F 3 "~" H 6500 8050 50  0001 C CNN
+	1    6500 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D43
+U 1 1 5C420015
+P 6500 7350
+F 0 "D43" V 6546 7271 50  0000 R CNN
+F 1 "D" V 6455 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 6500 7350 50  0001 C CNN
+F 3 "~" H 6500 7350 50  0001 C CNN
+	1    6500 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 5C42000E
+P 6500 6600
+F 0 "D30" V 6546 6521 50  0000 R CNN
+F 1 "D" V 6455 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 6500 6600 50  0001 C CNN
+F 3 "~" H 6500 6600 50  0001 C CNN
+	1    6500 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5C420007
+P 6500 5800
+F 0 "D17" V 6546 5721 50  0000 R CNN
+F 1 "D" V 6455 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 6500 5800 50  0001 C CNN
+F 3 "~" H 6500 5800 50  0001 C CNN
+	1    6500 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5C420000
+P 6500 5000
+F 0 "D4" V 6546 4921 50  0000 R CNN
+F 1 "D" V 6455 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 6500 5000 50  0001 C CNN
+F 3 "~" H 6500 5000 50  0001 C CNN
+	1    6500 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D55
+U 1 1 5C41FDDE
+P 5200 8050
+F 0 "D55" V 5246 7971 50  0000 R CNN
+F 1 "D" V 5155 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 5200 8050 50  0001 C CNN
+F 3 "~" H 5200 8050 50  0001 C CNN
+	1    5200 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D42
+U 1 1 5C41FDD7
+P 5200 7350
+F 0 "D42" V 5246 7271 50  0000 R CNN
+F 1 "D" V 5155 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 5200 7350 50  0001 C CNN
+F 3 "~" H 5200 7350 50  0001 C CNN
+	1    5200 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 5C41FDD0
+P 5200 6600
+F 0 "D29" V 5246 6521 50  0000 R CNN
+F 1 "D" V 5155 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 5200 6600 50  0001 C CNN
+F 3 "~" H 5200 6600 50  0001 C CNN
+	1    5200 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5C41FDC9
+P 5200 5800
+F 0 "D16" V 5246 5721 50  0000 R CNN
+F 1 "D" V 5155 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 5200 5800 50  0001 C CNN
+F 3 "~" H 5200 5800 50  0001 C CNN
+	1    5200 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5C41FDC2
+P 5200 5000
+F 0 "D3" V 5246 4921 50  0000 R CNN
+F 1 "D" V 5155 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 5200 5000 50  0001 C CNN
+F 3 "~" H 5200 5000 50  0001 C CNN
+	1    5200 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D54
+U 1 1 5C41FADF
+P 3850 8050
+F 0 "D54" V 3896 7971 50  0000 R CNN
+F 1 "D" V 3805 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 3850 8050 50  0001 C CNN
+F 3 "~" H 3850 8050 50  0001 C CNN
+	1    3850 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D41
+U 1 1 5C41FAD8
+P 3850 7350
+F 0 "D41" V 3896 7271 50  0000 R CNN
+F 1 "D" V 3805 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 3850 7350 50  0001 C CNN
+F 3 "~" H 3850 7350 50  0001 C CNN
+	1    3850 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 5C41FAD1
+P 3850 6600
+F 0 "D28" V 3896 6521 50  0000 R CNN
+F 1 "D" V 3805 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 3850 6600 50  0001 C CNN
+F 3 "~" H 3850 6600 50  0001 C CNN
+	1    3850 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5C41FACA
+P 3850 5800
+F 0 "D15" V 3896 5721 50  0000 R CNN
+F 1 "D" V 3805 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 3850 5800 50  0001 C CNN
+F 3 "~" H 3850 5800 50  0001 C CNN
+	1    3850 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5C41FAC3
+P 3850 5000
+F 0 "D2" V 3896 4921 50  0000 R CNN
+F 1 "D" V 3805 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 3850 5000 50  0001 C CNN
+F 3 "~" H 3850 5000 50  0001 C CNN
+	1    3850 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D53
+U 1 1 5C41F4D2
+P 2450 8050
+F 0 "D53" V 2496 7971 50  0000 R CNN
+F 1 "D" V 2405 7971 50  0000 R CNN
+F 2 "keebio:Diode" H 2450 8050 50  0001 C CNN
+F 3 "~" H 2450 8050 50  0001 C CNN
+	1    2450 8050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 5C41F418
+P 2450 7350
+F 0 "D40" V 2496 7271 50  0000 R CNN
+F 1 "D" V 2405 7271 50  0000 R CNN
+F 2 "keebio:Diode" H 2450 7350 50  0001 C CNN
+F 3 "~" H 2450 7350 50  0001 C CNN
+	1    2450 7350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 5C41F283
+P 2450 6600
+F 0 "D27" V 2496 6521 50  0000 R CNN
+F 1 "D" V 2405 6521 50  0000 R CNN
+F 2 "keebio:Diode" H 2450 6600 50  0001 C CNN
+F 3 "~" H 2450 6600 50  0001 C CNN
+	1    2450 6600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5C41EE91
+P 2450 5800
+F 0 "D14" V 2496 5721 50  0000 R CNN
+F 1 "D" V 2405 5721 50  0000 R CNN
+F 2 "keebio:Diode" H 2450 5800 50  0001 C CNN
+F 3 "~" H 2450 5800 50  0001 C CNN
+	1    2450 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5C41EB08
+P 2450 5000
+F 0 "D1" V 2496 4921 50  0000 R CNN
+F 1 "D" V 2405 4921 50  0000 R CNN
+F 2 "keebio:Diode" H 2450 5000 50  0001 C CNN
+F 3 "~" H 2450 5000 50  0001 C CNN
+	1    2450 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA53
+U 1 1 5C40D343
+P 1950 7900
+F 0 "SWA53" H 1950 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 1950 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 1950 7900 60  0001 C CNN
+F 3 "" H 1950 7900 60  0000 C CNN
+	1    1950 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA40
+U 1 1 5C40D33C
+P 1950 7200
+F 0 "SWA40" H 1950 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 1950 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 1950 7200 60  0001 C CNN
+F 3 "" H 1950 7200 60  0000 C CNN
+	1    1950 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA27
+U 1 1 5C40D335
+P 1950 6450
+F 0 "SWA27" H 1950 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 1950 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 1950 6450 60  0001 C CNN
+F 3 "" H 1950 6450 60  0000 C CNN
+	1    1950 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA14
+U 1 1 5C40D32E
+P 1950 5650
+F 0 "SWA14" H 1950 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 1950 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 1950 5650 60  0001 C CNN
+F 3 "" H 1950 5650 60  0000 C CNN
+	1    1950 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA1
+U 1 1 5C40D326
+P 1950 4850
+F 0 "SWA1" H 1950 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 1950 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 1950 4850 60  0001 C CNN
+F 3 "" H 1950 4850 60  0000 C CNN
+	1    1950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA58
+U 1 1 5C40CF26
+P 8800 7900
+F 0 "SWA58" H 8800 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 8800 7900 60  0001 C CNN
+F 3 "" H 8800 7900 60  0000 C CNN
+	1    8800 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA45
+U 1 1 5C40CF1F
+P 8800 7200
+F 0 "SWA45" H 8800 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 8800 7200 60  0001 C CNN
+F 3 "" H 8800 7200 60  0000 C CNN
+	1    8800 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA32
+U 1 1 5C40CF18
+P 8800 6450
+F 0 "SWA32" H 8800 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 8800 6450 60  0001 C CNN
+F 3 "" H 8800 6450 60  0000 C CNN
+	1    8800 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA19
+U 1 1 5C40CF11
+P 8800 5650
+F 0 "SWA19" H 8800 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 8800 5650 60  0001 C CNN
+F 3 "" H 8800 5650 60  0000 C CNN
+	1    8800 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA6
+U 1 1 5C40CF09
+P 8800 4850
+F 0 "SWA6" H 8800 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 8800 4850 60  0001 C CNN
+F 3 "" H 8800 4850 60  0000 C CNN
+	1    8800 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA57
+U 1 1 5C40CDCF
+P 7350 7900
+F 0 "SWA57" H 7350 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 7350 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 7350 7900 60  0001 C CNN
+F 3 "" H 7350 7900 60  0000 C CNN
+	1    7350 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA44
+U 1 1 5C40CDC8
+P 7350 7200
+F 0 "SWA44" H 7350 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 7350 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 7350 7200 60  0001 C CNN
+F 3 "" H 7350 7200 60  0000 C CNN
+	1    7350 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA31
+U 1 1 5C40CDC1
+P 7350 6450
+F 0 "SWA31" H 7350 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 7350 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 7350 6450 60  0001 C CNN
+F 3 "" H 7350 6450 60  0000 C CNN
+	1    7350 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA18
+U 1 1 5C40CDBA
+P 7350 5650
+F 0 "SWA18" H 7350 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 7350 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 7350 5650 60  0001 C CNN
+F 3 "" H 7350 5650 60  0000 C CNN
+	1    7350 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA5
+U 1 1 5C40CDB2
+P 7350 4850
+F 0 "SWA5" H 7350 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 7350 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 7350 4850 60  0001 C CNN
+F 3 "" H 7350 4850 60  0000 C CNN
+	1    7350 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA56
+U 1 1 5C40CC77
+P 5950 7900
+F 0 "SWA56" H 5950 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 5950 7900 60  0001 C CNN
+F 3 "" H 5950 7900 60  0000 C CNN
+	1    5950 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA43
+U 1 1 5C40CC70
+P 5950 7200
+F 0 "SWA43" H 5950 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 5950 7200 60  0001 C CNN
+F 3 "" H 5950 7200 60  0000 C CNN
+	1    5950 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA30
+U 1 1 5C40CC69
+P 5950 6450
+F 0 "SWA30" H 5950 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 5950 6450 60  0001 C CNN
+F 3 "" H 5950 6450 60  0000 C CNN
+	1    5950 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA17
+U 1 1 5C40CC62
+P 5950 5650
+F 0 "SWA17" H 5950 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 5950 5650 60  0001 C CNN
+F 3 "" H 5950 5650 60  0000 C CNN
+	1    5950 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA4
+U 1 1 5C40CC5A
+P 5950 4850
+F 0 "SWA4" H 5950 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 5950 4850 60  0001 C CNN
+F 3 "" H 5950 4850 60  0000 C CNN
+	1    5950 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA55
+U 1 1 5C40CB26
+P 4650 7900
+F 0 "SWA55" H 4650 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 4650 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 4650 7900 60  0001 C CNN
+F 3 "" H 4650 7900 60  0000 C CNN
+	1    4650 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA42
+U 1 1 5C40CB1F
+P 4650 7200
+F 0 "SWA42" H 4650 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 4650 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 4650 7200 60  0001 C CNN
+F 3 "" H 4650 7200 60  0000 C CNN
+	1    4650 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA29
+U 1 1 5C40CB18
+P 4650 6450
+F 0 "SWA29" H 4650 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 4650 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 4650 6450 60  0001 C CNN
+F 3 "" H 4650 6450 60  0000 C CNN
+	1    4650 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA16
+U 1 1 5C40CB11
+P 4650 5650
+F 0 "SWA16" H 4650 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 4650 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 4650 5650 60  0001 C CNN
+F 3 "" H 4650 5650 60  0000 C CNN
+	1    4650 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA3
+U 1 1 5C40CB09
+P 4650 4850
+F 0 "SWA3" H 4650 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 4650 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 4650 4850 60  0001 C CNN
+F 3 "" H 4650 4850 60  0000 C CNN
+	1    4650 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA54
+U 1 1 5C40C4D3
+P 3300 7900
+F 0 "SWA54" H 3300 8155 50  0000 C CNN
+F 1 "SW_PUSH" H 3300 8064 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 3300 7900 60  0001 C CNN
+F 3 "" H 3300 7900 60  0000 C CNN
+	1    3300 7900
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA41
+U 1 1 5C40C4A5
+P 3300 7200
+F 0 "SWA41" H 3300 7455 50  0000 C CNN
+F 1 "SW_PUSH" H 3300 7364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 3300 7200 60  0001 C CNN
+F 3 "" H 3300 7200 60  0000 C CNN
+	1    3300 7200
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA28
+U 1 1 5C40C45D
+P 3300 6450
+F 0 "SWA28" H 3300 6705 50  0000 C CNN
+F 1 "SW_PUSH" H 3300 6614 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 3300 6450 60  0001 C CNN
+F 3 "" H 3300 6450 60  0000 C CNN
+	1    3300 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA15
+U 1 1 5C40C42D
+P 3300 5650
+F 0 "SWA15" H 3300 5905 50  0000 C CNN
+F 1 "SW_PUSH" H 3300 5814 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 3300 5650 60  0001 C CNN
+F 3 "" H 3300 5650 60  0000 C CNN
+	1    3300 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:SW_PUSH SWA2
+U 1 1 5C406DCC
+P 3300 4850
+F 0 "SWA2" H 3300 5105 50  0000 C CNN
+F 1 "SW_PUSH" H 3300 5014 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_100H_Dual_hole-nosilk-flip" H 3300 4850 60  0001 C CNN
+F 3 "" H 3300 4850 60  0000 C CNN
+	1    3300 4850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6600 2550 6800 2550
+$Comp
+L keyboard_parts:SW_PUSH SW1
+U 1 1 5C403437
+P 7100 2550
+F 0 "SW1" H 7100 2805 50  0000 C CNN
+F 1 "SW_PUSH" H 7100 2714 50  0000 C CNN
+F 2 "keebio:SW_Tactile_SPST_Angled_MJTP1117" H 7100 2550 60  0001 C CNN
+F 3 "" H 7100 2550 60  0000 C CNN
+	1    7100 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7450 2550 7450 2600
+Wire Wire Line
+	7400 2550 7450 2550
+NoConn ~ 6600 2350
+NoConn ~ 5200 3250
+NoConn ~ 5200 2450
+$Comp
+L keebio:Hole H1
+U 1 1 5C4B82F3
+P 11700 2050
+F 0 "H1" H 11886 2103 60  0000 L CNN
+F 1 "Hole" H 11886 1997 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 2050 60  0001 C CNN
+F 3 "" H 11700 2050 60  0001 C CNN
+	1    11700 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H2
+U 1 1 5C4B858B
+P 11700 2400
+F 0 "H2" H 11886 2453 60  0000 L CNN
+F 1 "Hole" H 11886 2347 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 2400 60  0001 C CNN
+F 3 "" H 11700 2400 60  0001 C CNN
+	1    11700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H3
+U 1 1 5C4B86DB
+P 11700 2750
+F 0 "H3" H 11886 2803 60  0000 L CNN
+F 1 "Hole" H 11886 2697 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 2750 60  0001 C CNN
+F 3 "" H 11700 2750 60  0001 C CNN
+	1    11700 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H4
+U 1 1 5C4B8831
+P 11700 3100
+F 0 "H4" H 11886 3153 60  0000 L CNN
+F 1 "Hole" H 11886 3047 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 3100 60  0001 C CNN
+F 3 "" H 11700 3100 60  0001 C CNN
+	1    11700 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H5
+U 1 1 5C4B8989
+P 11700 3450
+F 0 "H5" H 11886 3503 60  0000 L CNN
+F 1 "Hole" H 11886 3397 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 3450 60  0001 C CNN
+F 3 "" H 11700 3450 60  0001 C CNN
+	1    11700 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L keebio:Hole H6
+U 1 1 5C4B8ADB
+P 11700 3800
+F 0 "H6" H 11886 3853 60  0000 L CNN
+F 1 "Hole" H 11886 3747 60  0000 L CNN
+F 2 "keebio:MountingHole" H 11700 3800 60  0001 C CNN
+F 3 "" H 11700 3800 60  0001 C CNN
+	1    11700 3800
+	1    0    0    -1  
+$EndComp
+NoConn ~ 5200 2750
+NoConn ~ 5200 2850
+Wire Wire Line
+	19250 5200 19750 5200
+$Comp
+L keyboard_parts:SW_PUSH SWA67
+U 1 1 5C5507E7
+P 8800 8200
+F 0 "SWA67" H 8800 8455 50  0000 C CNN
+F 1 "SW_PUSH" H 8800 8364 50  0000 C CNN
+F 2 "keebio:Hybrid_PCB_200H-dual-nosilk" H 8800 8200 60  0001 C CNN
+F 3 "" H 8800 8200 60  0000 C CNN
+	1    8800 8200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9100 8200 9200 8200
+Wire Wire Line
+	9200 8200 9200 7900
+Connection ~ 9200 7900
+Wire Wire Line
+	9200 7900 9350 7900
+Wire Wire Line
+	8150 7900 8150 8200
+Wire Wire Line
+	8150 8200 8500 8200
+Connection ~ 8150 7900
+$EndSCHEMATC
