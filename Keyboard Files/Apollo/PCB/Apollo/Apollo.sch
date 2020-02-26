@@ -280,7 +280,7 @@ F 3 "" H 1500 850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1500 1050 1500 1450
+	1500 1050 1500 1150
 Connection ~ 1500 1450
 Wire Wire Line
 	4300 950  4700 950 
@@ -343,8 +343,6 @@ Text GLabel 7100 3950 2    50   Input ~ 0
 MISO
 Text GLabel 7100 4150 2    50   Input ~ 0
 SCK
-Text GLabel 7100 4250 2    50   Input ~ 0
-RST
 $Comp
 L Type-C:HRO-TYPE-C-31-M-12 USB1
 U 1 1 5E4ED905
@@ -3773,4 +3771,19 @@ NoConn ~ 6950 1250
 NoConn ~ 6250 6500
 NoConn ~ 7000 6500
 NoConn ~ 2750 8250
+$Comp
+L Connector_Generic:Conn_01x01 J17
+U 1 1 5E579A3D
+P 1300 1150
+F 0 "J17" H 1218 925 50  0000 C CNN
+F 1 "Conn_01x01" H 1218 1016 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 1300 1150 50  0001 C CNN
+F 3 "~" H 1300 1150 50  0001 C CNN
+	1    1300 1150
+	-1   0    0    1   
+$EndComp
+Connection ~ 1500 1150
+Wire Wire Line
+	1500 1150 1500 1450
+NoConn ~ 7100 4250
 $EndSCHEMATC
