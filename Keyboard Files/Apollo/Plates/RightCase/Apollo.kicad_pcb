@@ -87,7 +87,7 @@
       (plotinvisibletext false)
       (padsonsilk false)
       (subtractmaskfromsilk false)
-      (outputformat 3)
+      (outputformat 5)
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
@@ -106,7 +106,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E58CE72)
-    (at 103.886 154.94)
+    (at 109.22 126.238)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -125,7 +125,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E58CE72)
-    (at 110.4265 83.439 270)
+    (at 115.7605 54.737 270)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -144,7 +144,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E58CE72)
-    (at 219.5195 85.7885 270)
+    (at 224.8535 57.0865 270)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -163,7 +163,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E590CD5)
-    (at 239.522 153.6065 180)
+    (at 244.856 124.9045 180)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -182,7 +182,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E590CD8)
-    (at 114.427 205.1685 180)
+    (at 119.761 176.4665 180)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -201,7 +201,7 @@
   )
 
   (module MountingHole:MountingHole_2.7mm_M2.5 (layer B.Cu) (tedit 56D1B4CB) (tstamp 5E590CD8)
-    (at 176.022 187.5155 180)
+    (at 181.356 158.8135 180)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr virtual)
@@ -220,7 +220,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538413)
-    (at 119.3165 98.8695 180)
+    (at 124.6505 70.1675 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -248,7 +248,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538176)
-    (at 176.4665 96.4565 180)
+    (at 181.8005 67.7545 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -276,7 +276,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E539DC8)
-    (at 219.329 139.319 180)
+    (at 224.663 110.617 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -304,7 +304,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E539DB3)
-    (at 219.329 158.369 180)
+    (at 224.663 129.667 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -332,7 +332,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E539D9E)
-    (at 219.329 101.219 180)
+    (at 224.663 72.517 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -360,7 +360,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E539D89)
-    (at 219.329 177.419 180)
+    (at 224.663 148.717 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -388,7 +388,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E539D74)
-    (at 219.329 120.269 180)
+    (at 224.663 91.567 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -416,7 +416,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538520)
-    (at 97.155 193.04 213)
+    (at 102.489 164.338 33)
     (fp_text reference REF** (at 0.25 -10.05 213) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -427,24 +427,24 @@
     (fp_line (start -9.5 -9.5) (end -9.5 9.5) (layer Dwgs.User) (width 0.15))
     (fp_line (start 9.5 -9.5) (end -9.5 -9.5) (layer Dwgs.User) (width 0.15))
     (fp_line (start 9.5 9.5) (end 9.5 -9.5) (layer Dwgs.User) (width 0.15))
-    (pad "" np_thru_hole oval (at 0 6.731 213) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 -6.731 213) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.5565 4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.5565 4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.5565 -4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.5565 -4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 6.731 0 213) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -6.731 0 213) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 6.985 213) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 -6.985 213) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.14375 2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.14375 2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.14375 -2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.14375 -2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 6.731 33) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 -6.731 33) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.5565 4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.5565 4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.5565 -4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.5565 -4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 6.731 0 33) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -6.731 0 33) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 6.985 33) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 -6.985 33) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.14375 2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.14375 2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.14375 -2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.14375 -2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538520)
-    (at 113.0935 182.6895 213)
+    (at 118.4275 153.9875 33)
     (fp_text reference REF** (at 0.25 -10.05 213) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -455,24 +455,24 @@
     (fp_line (start -9.5 -9.5) (end -9.5 9.5) (layer Dwgs.User) (width 0.15))
     (fp_line (start 9.5 -9.5) (end -9.5 -9.5) (layer Dwgs.User) (width 0.15))
     (fp_line (start 9.5 9.5) (end 9.5 -9.5) (layer Dwgs.User) (width 0.15))
-    (pad "" np_thru_hole oval (at 0 6.731 213) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 -6.731 213) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.5565 4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.5565 4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.5565 -4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.5565 -4.699 213) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 6.731 0 213) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -6.731 0 213) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 6.985 213) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 0 -6.985 213) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.14375 2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.14375 2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at -7.14375 -2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
-    (pad "" np_thru_hole oval (at 7.14375 -2.667 213) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 6.731 33) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 -6.731 33) (size 15.5956 0.508) (drill oval 15.5956 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.5565 4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.5565 4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.5565 -4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.5565 -4.699 33) (size 0.508 4.572) (drill oval 0.508 4.572) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 6.731 0 33) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -6.731 0 33) (size 0.508 5.842) (drill oval 0.508 5.842) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 6.985 33) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 0 -6.985 33) (size 5.08 1.27) (drill oval 5.08 1.27) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.14375 2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.14375 2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at -7.14375 -2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
+    (pad "" np_thru_hole oval (at 7.14375 -2.667 33) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538520)
-    (at 136.4615 175.133 15)
+    (at 141.7955 146.431 15)
     (fp_text reference REF** (at 0.25 -10.05 195) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -500,7 +500,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E53843D)
-    (at 119.3165 156.0195 180)
+    (at 124.6505 127.3175 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -528,7 +528,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538428)
-    (at 119.3165 136.9695 180)
+    (at 124.6505 108.2675 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -556,7 +556,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5383FE)
-    (at 119.3165 117.9195 180)
+    (at 124.6505 89.2175 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -584,7 +584,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E53843D)
-    (at 138.3665 153.6065 180)
+    (at 143.7005 124.9045 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -612,7 +612,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538428)
-    (at 138.3665 134.5565 180)
+    (at 143.7005 105.8545 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -640,7 +640,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538413)
-    (at 138.3665 96.4565 180)
+    (at 143.7005 67.7545 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -668,7 +668,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5383FE)
-    (at 138.3665 115.5065 180)
+    (at 143.7005 86.8045 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -696,7 +696,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538302)
-    (at 157.4165 94.107 180)
+    (at 162.7505 65.405 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -724,7 +724,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382ED)
-    (at 157.4165 113.157 180)
+    (at 162.7505 84.455 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -752,7 +752,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382D8)
-    (at 157.4165 170.307 180)
+    (at 162.7505 141.605 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -780,7 +780,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382C3)
-    (at 157.4165 151.257 180)
+    (at 162.7505 122.555 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -808,7 +808,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382AE)
-    (at 157.4165 132.207 180)
+    (at 162.7505 103.505 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -836,7 +836,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538302)
-    (at 195.5165 101.219 180)
+    (at 200.8505 72.517 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -864,7 +864,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382ED)
-    (at 195.5165 120.269 180)
+    (at 200.8505 91.567 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -892,7 +892,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E56074B)
-    (at 195.5165 177.419 180)
+    (at 200.8505 148.717 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -920,7 +920,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382C3)
-    (at 195.5165 158.369 180)
+    (at 200.8505 129.667 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -948,7 +948,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5382AE)
-    (at 195.5165 139.319 180)
+    (at 200.8505 110.617 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -976,7 +976,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E538228)
-    (at 176.4665 172.6565 180)
+    (at 181.8005 143.9545 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1004,7 +1004,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5381CF)
-    (at 176.4665 134.5565 180)
+    (at 181.8005 105.8545 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1032,7 +1032,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E5381BA)
-    (at 176.4665 153.6065 180)
+    (at 181.8005 124.9045 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1060,7 +1060,7 @@
   )
 
   (module Keebio-Parts:MX_Switch_Cutout (layer B.Cu) (tedit 59612069) (tstamp 5E53818D)
-    (at 176.4665 115.5065 180)
+    (at 181.8005 86.8045 180)
     (fp_text reference REF** (at 0.25 -10.05) (layer Eco2.User) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1087,63 +1087,63 @@
     (pad "" np_thru_hole oval (at 7.14375 -2.667 180) (size 1.3335 0.508) (drill oval 1.3335 0.508) (layers *.Cu *.Mask))
   )
 
-  (gr_line (start 103.9495 158.623) (end 106.7435 158.623) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
-  (gr_arc (start 104.0615 154.9721) (end 103.9495 158.623) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
-  (gr_line (start 104.073635 151.319503) (end 106.7435 151.3205) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
-  (gr_line (start 106.7435 83.5025) (end 106.7435 86.2965) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
-  (gr_arc (start 110.3944 83.6145) (end 106.7435 83.5025) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
-  (gr_line (start 114.046997 83.626635) (end 114.046 86.2965) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
-  (gr_line (start 215.8365 85.852) (end 215.8365 88.646) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
-  (gr_arc (start 219.4874 85.964) (end 215.8365 85.852) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
-  (gr_line (start 223.139997 85.976135) (end 223.139 88.646) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
-  (gr_line (start 239.4585 149.9235) (end 236.6645 149.9235) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA0))
-  (gr_line (start 115.7351 200.5965) (end 120.3198 197.5993) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 130.3655 192.8495) (end 120.3198 197.5993) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 115.7351 200.5965) (end 117.475 203.327) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 109.5375 204.597) (end 111.321776 207.106386) (layer Edge.Cuts) (width 0.05))
-  (gr_arc (start 114.3702 205.1708) (end 117.475 203.327) (angle 178.2907958) (layer Edge.Cuts) (width 0.05) (tstamp 5E55DBE0))
-  (gr_line (start 106.742818 86.2965) (end 106.7435 151.3205) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 171.500818 186.959) (end 171.500818 185.2295) (layer Edge.Cuts) (width 0.05) (tstamp 5E560909))
-  (gr_arc (start 176.016 186.959) (end 180.531182 186.959) (angle 180) (layer Edge.Cuts) (width 0.05) (tstamp 5E560906))
-  (gr_line (start 180.531182 186.959) (end 180.531182 185.2295) (layer Edge.Cuts) (width 0.05) (tstamp 5E560903))
-  (gr_line (start 239.334365 157.226997) (end 236.6645 157.226) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA2))
-  (gr_arc (start 239.3465 153.5744) (end 239.4585 149.9235) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA1))
-  (gr_line (start 109.5375 204.597) (end 95.7834 213.5378) (layer Edge.Cuts) (width 0.05) (tstamp 5E5417CE))
-  (gr_line (start 106.7435 158.623) (end 106.7435 165.404351) (layer Edge.Cuts) (width 0.05) (tstamp 5E5416C7))
-  (gr_line (start 223.139 88.646) (end 235.2675 88.646) (layer Edge.Cuts) (width 0.05) (tstamp 5E541676))
-  (gr_line (start 236.6645 157.226) (end 236.6645 188.595) (layer Edge.Cuts) (width 0.05) (tstamp 5E54164F))
-  (gr_line (start 180.531182 185.2295) (end 182.626 185.2295) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601B4))
-  (gr_arc (start 105.791 165.404351) (end 106.7435 165.404351) (angle 61.69924423) (layer Edge.Cuts) (width 0.05) (tstamp 5E55E617))
-  (gr_arc (start 77.828132 185.801001) (end 77.015333 186.2328) (angle 84.28945016) (layer Edge.Cuts) (width 0.05) (tstamp 5E55E43C))
-  (gr_line (start 106.24258 166.243) (end 77.3176 185.039) (layer Edge.Cuts) (width 0.05) (tstamp 5E53807F))
-  (gr_arc (start 95.351601 212.725001) (end 95.7834 213.5378) (angle 84.28945016) (layer Edge.Cuts) (width 0.05) (tstamp 5E53805E))
-  (gr_line (start 77.015333 186.2328) (end 94.585801 213.235533) (layer Edge.Cuts) (width 0.05) (tstamp 5E538046))
-  (gr_line (start 148.082 185.928) (end 130.3655 192.8495) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 166.116 185.2295) (end 148.082 185.928) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 184.023 188.595) (end 184.023 186.6265) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601B1))
-  (gr_line (start 126.873 84.3915) (end 126.873 84.8995) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 145.923 82.1055) (end 145.923 82.423) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 168.91 82.1055) (end 168.91 82.4865) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 187.96 85.2805) (end 187.96 87.249) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 166.116 185.2295) (end 171.500818 185.2295) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601AE))
-  (gr_line (start 185.42 189.992) (end 235.2675 189.992) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601AB))
-  (gr_line (start 114.046 86.2965) (end 125.476 86.2965) (layer Edge.Cuts) (width 0.05) (tstamp 5E55DB8B))
-  (gr_line (start 127.4445 83.82) (end 144.526 83.82) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 146.4945 81.534) (end 168.3385 81.534) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 170.307 83.8835) (end 186.563 83.8835) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 189.357 88.646) (end 215.8365 88.646) (layer Edge.Cuts) (width 0.05))
-  (gr_arc (start 127.4445 84.3915) (end 126.873 84.3915) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4EDB91))
-  (gr_arc (start 146.4945 82.1055) (end 145.923 82.1055) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4EDB91))
-  (gr_arc (start 168.3385 82.1055) (end 168.3385 81.534) (angle 90) (layer Edge.Cuts) (width 0.05))
-  (gr_arc (start 182.626 186.6265) (end 182.626 185.2295) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A8))
-  (gr_arc (start 185.42 188.595) (end 185.42 189.992) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A5))
-  (gr_arc (start 235.2675 188.595) (end 236.6645 188.595) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A2))
-  (gr_arc (start 125.476 84.8995) (end 126.873 84.8995) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
-  (gr_arc (start 144.526 82.423) (end 145.923 82.423) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5381AF))
-  (gr_arc (start 170.307 82.4865) (end 170.307 83.8835) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
-  (gr_arc (start 186.563 85.2805) (end 186.563 83.8835) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
-  (gr_arc (start 189.357 87.249) (end 189.357 88.646) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
-  (gr_arc (start 235.2675 90.043) (end 235.2675 88.646) (angle 90) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 236.6645 149.9235) (end 236.6645 90.043) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 109.2835 129.921) (end 112.0775 129.921) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
+  (gr_arc (start 109.3955 126.2701) (end 109.2835 129.921) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
+  (gr_line (start 109.407635 122.617503) (end 112.0775 122.6185) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
+  (gr_line (start 112.0775 54.8005) (end 112.0775 57.5945) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
+  (gr_arc (start 115.7284 54.9125) (end 112.0775 54.8005) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
+  (gr_line (start 119.380997 54.924635) (end 119.38 57.5945) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
+  (gr_line (start 221.1705 57.15) (end 221.1705 59.944) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7B))
+  (gr_arc (start 224.8214 57.262) (end 221.1705 57.15) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE7A))
+  (gr_line (start 228.473997 57.274135) (end 228.473 59.944) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CE79))
+  (gr_line (start 244.7925 121.2215) (end 241.9985 121.2215) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA0))
+  (gr_line (start 121.5771 172.6565) (end 126.1618 169.6593) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 135.6995 164.1475) (end 126.1618 169.6593) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 121.5771 172.6565) (end 122.809 174.625) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 115.3795 176.657) (end 116.655776 178.404386) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 119.7042 176.4688) (end 122.809 174.625) (angle 178.2907958) (layer Edge.Cuts) (width 0.05) (tstamp 5E55DBE0))
+  (gr_line (start 112.076818 57.5945) (end 112.0775 122.6185) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 176.834818 158.257) (end 176.834818 156.5275) (layer Edge.Cuts) (width 0.05) (tstamp 5E560909))
+  (gr_arc (start 181.35 158.257) (end 185.865182 158.257) (angle 180) (layer Edge.Cuts) (width 0.05) (tstamp 5E560906))
+  (gr_line (start 185.865182 158.257) (end 185.865182 156.5275) (layer Edge.Cuts) (width 0.05) (tstamp 5E560903))
+  (gr_line (start 244.668365 128.524997) (end 241.9985 128.524) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA2))
+  (gr_arc (start 244.6805 124.8724) (end 244.7925 121.2215) (angle 178.4332201) (layer Edge.Cuts) (width 0.05) (tstamp 5E55CBA1))
+  (gr_line (start 115.3795 176.657) (end 102.1334 185.2803) (layer Edge.Cuts) (width 0.05) (tstamp 5E5417CE))
+  (gr_line (start 112.0775 129.921) (end 112.0775 136.829351) (layer Edge.Cuts) (width 0.05) (tstamp 5E5925AC))
+  (gr_line (start 228.473 59.944) (end 240.6015 59.944) (layer Edge.Cuts) (width 0.05) (tstamp 5E541676))
+  (gr_line (start 241.9985 128.524) (end 241.9985 159.893) (layer Edge.Cuts) (width 0.05) (tstamp 5E54164F))
+  (gr_line (start 185.865182 156.5275) (end 187.96 156.5275) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601B4))
+  (gr_arc (start 111.125 136.829351) (end 112.0775 136.829351) (angle 61.69924423) (layer Edge.Cuts) (width 0.05) (tstamp 5E55E617))
+  (gr_arc (start 83.695532 156.8488) (end 82.882733 157.280599) (angle 84.28945016) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CDD8))
+  (gr_line (start 111.57658 137.668) (end 83.185 156.083) (layer Edge.Cuts) (width 0.05) (tstamp 5E53807F))
+  (gr_arc (start 101.701601 184.467501) (end 102.1334 185.2803) (angle 84.28945016) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CDD5))
+  (gr_line (start 82.882733 157.280599) (end 100.935801 184.978033) (layer Edge.Cuts) (width 0.05) (tstamp 5E58CDD2))
+  (gr_line (start 153.416 157.226) (end 135.6995 164.1475) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 171.45 156.5275) (end 153.416 157.226) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 189.357 159.893) (end 189.357 157.9245) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601B1))
+  (gr_line (start 132.207 55.6895) (end 132.207 56.1975) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 151.257 53.4035) (end 151.257 53.721) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 174.244 53.4035) (end 174.244 53.7845) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 193.294 56.5785) (end 193.294 58.547) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 171.45 156.5275) (end 176.834818 156.5275) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601AE))
+  (gr_line (start 190.754 161.29) (end 240.6015 161.29) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601AB))
+  (gr_line (start 119.38 57.5945) (end 130.81 57.5945) (layer Edge.Cuts) (width 0.05) (tstamp 5E55DB8B))
+  (gr_line (start 132.7785 55.118) (end 149.86 55.118) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 151.8285 52.832) (end 173.6725 52.832) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 175.641 55.1815) (end 191.897 55.1815) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 194.691 59.944) (end 221.1705 59.944) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 132.7785 55.6895) (end 132.207 55.6895) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4EDB91))
+  (gr_arc (start 151.8285 53.4035) (end 151.257 53.4035) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4EDB91))
+  (gr_arc (start 173.6725 53.4035) (end 173.6725 52.832) (angle 90) (layer Edge.Cuts) (width 0.05))
+  (gr_arc (start 187.96 157.9245) (end 187.96 156.5275) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A8))
+  (gr_arc (start 190.754 159.893) (end 190.754 161.29) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A5))
+  (gr_arc (start 240.6015 159.893) (end 241.9985 159.893) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5601A2))
+  (gr_arc (start 130.81 56.1975) (end 132.207 56.1975) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
+  (gr_arc (start 149.86 53.721) (end 151.257 53.721) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E5381AF))
+  (gr_arc (start 175.641 53.7845) (end 175.641 55.1815) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
+  (gr_arc (start 191.897 56.5785) (end 191.897 55.1815) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
+  (gr_arc (start 194.691 58.547) (end 194.691 59.944) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 5E4ED81A))
+  (gr_arc (start 240.6015 61.341) (end 240.6015 59.944) (angle 90) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 241.9985 121.2215) (end 241.9985 61.341) (layer Edge.Cuts) (width 0.05))
 
 )
