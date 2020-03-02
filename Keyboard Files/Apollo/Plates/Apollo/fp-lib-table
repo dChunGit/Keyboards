@@ -7,4 +7,5 @@
   (lib (name Molex-0548190589)(type KiCad)(uri /home/dchun/Kicad/Keyboard/Molex-0548190589.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri /home/dchun/Kicad/Keyboard/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri /home/dchun/Kicad/Keyboard/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name keebio-components)(type KiCad)(uri C:/Users/dwsch/Documents/Kicad/keebio-components)(options "")(descr ""))
 )
