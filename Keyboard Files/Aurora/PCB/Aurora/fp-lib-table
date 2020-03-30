@@ -7,4 +7,7 @@
   (lib (name Molex-0548190589)(type KiCad)(uri /home/dchun/Kicad/Keyboard/Molex-0548190589.pretty)(options "")(descr ""))
   (lib (name MX_Only)(type KiCad)(uri /home/dchun/Kicad/Keyboard/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri /home/dchun/Kicad/Keyboard/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name USBC)(type KiCad)(uri /home/dchun/Kicad/Keyboard/USBC)(options "")(descr ""))
+  (lib (name MDBT42Q)(type KiCad)(uri /home/dchun/Kicad/MDBT42Q-512KV2/KiCad)(options "")(descr ""))
+  (lib (name adafruit)(type KiCad)(uri /home/dchun/Kicad/Custom/adafruit.pretty)(options "")(descr ""))
 )

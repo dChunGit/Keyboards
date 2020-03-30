@@ -1,4 +1,4 @@
-update=Thu 19 Mar 2020 01:20:42 AM CDT
+update=Sun 29 Mar 2020 01:14:56 AM CDT
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=ApolloV2.net
+LastNetListRead=Aurora.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -39,10 +39,6 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=0.2
-TrackWidth3=0.35
-TrackWidth4=0.45
-TrackWidth5=0.62
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -237,7 +233,7 @@ Enabled=1
 [pcbnew/Layer.F.Fab]
 Enabled=1
 [pcbnew/Layer.Rescue]
-Enabled=0
+Enabled=1
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
